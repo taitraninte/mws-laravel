@@ -1,4 +1,4 @@
-# tapha/mws-laravel
+# taitraninte/mws-laravel
 A minimal service provider to set up and use the Amazon MWS API PHP library in Laravel 5.*
 
 Forked from https://github.com/CPIGroup/phpAmazonMWS
@@ -32,7 +32,7 @@ Note: Adding this dependency will automatically setup "anlutro/l4-settings" too.
 
 ```json
 "require": {
-    "tapha/mws-laravel": "1.*",
+    "taitraninte/mws-laravel": "1.*",
 }
 ```
 
